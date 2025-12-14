@@ -1,0 +1,41 @@
+patient_id,full_name,age,gender
+BN100 ,LE VAN  c,30, nu 
+BN101,HOANG  van e,35t,M
+BN102 ,pham thi   d, 50 ,m
+bn103,LE VAN  c,25, nu 
+bn104,Nguyen van A,30, nu 
+ BN105,LE VAN  c,25,F
+BN106 ,HOANG  van e,25,female
+bn107,Nguyen van A,25,Nam
+ BN108,HOANG  van e,30,m
+BN109,  trAn  thi B,30,female
+BN110,HOANG  van e,40, nu 
+BN111,Nguyen van A,40, nu 
+bn112,HOANG  van e,25,F
+ BN113,  trAn  thi B,40,Nam
+BN114 ,pham thi   d, 50 ,F
+BN115,pham thi   d,40, nu 
+bn116,LE VAN  c,25,female
+ BN117,HOANG  van e,40,Nam
+ BN118,  trAn  thi B,35t,F
+BN119 ,LE VAN  c, 50 ,female
+BN120 ,HOANG  van e,35t,F
+BN121,HOANG  van e,30,female
+BN122 ,LE VAN  c,35t,m
+ BN123,Nguyen van A, 50 ,Nam
+ BN124,  trAn  thi B,25,Nam
+BN125 ,HOANG  van e,30,m
+BN126,HOANG  van e,-1,F
+ BN127,HOANG  van e,30,Nam
+BN128 ,LE VAN  c,-1, nu 
+BN129 ,Nguyen van A,25,Nam
+BN130,Nguyen van A,30,F
+BN131,  trAn  thi B,25,female
+bn132,Nguyen van A,25,Nam
+ BN133,pham thi   d,35t,Nam
+BN134 ,Nguyen van A,40,F
+BN135,Nguyen van A,30, nu 
+ BN136,Nguyen van A,-1, nu 
+BN137,LE VAN  c,35t, nu 
+ BN138,LE VAN  c, 50 ,M
+BN139 ,HOANG  van e,25, nu 
